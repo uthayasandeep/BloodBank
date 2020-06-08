@@ -1,0 +1,612 @@
+
+@media (max-width : 480px){
+	html,body{
+		width: 100%;
+    }
+
+    .donate {
+       
+        width: 300px;
+        margin-left: 70px;
+        margin-top: 30px;
+        height: 820px;
+       
+    }
+
+    .donate img {
+        margin-left: 100px;
+        
+    }
+    
+    .donate h1 {
+     font-size: 28px;
+    }
+    
+    .donate h2 {
+        text-align: center;
+        font-size: 25px;
+    }
+
+    .donate p {
+        font-size: 18px;
+    }
+
+    .donate iframe {
+        margin-left: 13px;
+        margin-top: 25px;
+        width: 271px;
+        height: 250px;
+    }
+    
+    
+    .donate input {
+        font-size: 22px;
+        margin-left: 10px;
+        padding-left: 66px;
+        margin-top: 20px;
+      
+    }
+    /* --index------- */
+    /* -------form---- */
+
+    .donar-save {
+        background-color: white;
+        width: 350px;
+        margin-left: 40px;
+        margin-top: 130px;
+        height: 500px;
+    }
+    .donar-save h1 {
+        font-size: 35px;
+    }
+
+    .donar-save img {
+        margin-left: 130px;
+    }
+
+    .donar-save input {  
+        margin-left: 20px;
+        padding-left: 80px;
+        margin-top: 35px;
+        font-size: 22px;
+        padding-right: 55px;
+
+    }
+    /* ----form---- */
+    /* -----log----- */
+    .heart {
+        font-size: 45px;
+    }
+
+    .donator {
+        width: 345px;
+        margin-left: 40px;
+        margin-top: 70px;
+        height: 1150px;
+    }
+
+    #input {
+        width: 75%;
+    }
+
+    #input:hover {
+        width: 80%;
+    }
+
+    select {
+        width: 60%;
+    }
+
+    select:hover{
+        width: 65%;
+    }
+    
+    #txtDate {
+        width: 58%;
+    }
+    
+    #txtDate:hover {
+        width: 60%;
+    }
+       
+       
+       
+    
+    
+    /* ----log--- */
+    /* -----search---- */
+
+    .contenedor {
+        width: 350px;
+        margin-left: 40px;
+    }
+    /* ------search--- */
+    /* ----thanks--- */
+    .thanks {
+        width: 350px;
+        margin-left: 40px;
+    }
+    /* ---save---- */
+
+    .save-blood {
+        width: 415px;
+        margin-left: 0px;
+        height:600px;
+        
+    }
+
+
+    /* ---save--------- */
+
+}
+/* --------------480px----------------- */
+/* ----------480-766 */
+@media (min-width : 480px) and (max-width : 767px) {
+    html,body{
+		width: 100%;
+    }
+
+    .donate {
+        width: 620px;
+        margin-left: 80px;
+        height: 920px;
+       
+    }
+    .donate img {
+        width: 120px;
+        margin-left: 235px;
+        border-radius: 60px;
+    }
+
+    .donate h1 {
+        font-size: 50px;
+    }
+
+    .donate p {
+        font-size: 30px;
+    }
+
+    .donate h2 {
+        font-size: 46px;
+        margin-top: 35px;
+    }
+
+    .donate iframe {
+        margin-left: 100px;
+        width: 460px;
+        height: 300px;
+    }
+
+    .donate input {
+        font-size: 32px;
+        margin-left: 156px;
+        margin-top: 30px;
+    }
+    /* ---index--- */
+    /* --------form------------ */
+    .donar-save {
+        width: 600px;
+        margin-left: 100px;
+        height: 460px;
+        margin-top: 180px;
+
+    }
+
+    .donar-save img {
+        width: 130px;
+        margin-left: 220px;
+        border-radius: 80px;
+        font-size: 25px;
+    }
+
+    .donar-save h1 {
+        font-size: 50px;
+        margin-top: 40px;
+    }
+
+    .donar-save input {
+        margin-left: 130px;
+        margin-top: 30px;
+        font-size: 24px;
+    
+    }
+
+    .donar-save .button1 {
+        font-size: 30px;
+    }
+
+    /* -------form-------- */
+    /* -------------log-------- */
+    .heart {
+        font-size: 50px;
+    }
+
+    .donator {
+        width: 635px;
+        margin-left: 80px;
+        margin-top: 70px;
+        height: 1300px;
+    }
+    .donator img {
+        width: 125px;
+        border-radius: 70px;
+    }
+    .donator h1{
+        font-size: 55px;
+    }
+    
+
+    #input {
+        width: 75%;
+        font-size: 26px;
+    }
+
+    #input:hover {
+        width: 80%;
+    }
+
+    select {
+        width: 60%;
+        font-size: 24px;
+    }
+
+    select:hover{
+        width: 65%;
+    }
+    /* --log--- */
+    /* -----search---- */
+
+    .contenedor {
+        width: 600px;
+        margin-left: 100px;
+    }
+    /* ------search--- */
+    /* ---save---- */
+
+    .save-blood {
+        width: 620px;
+        margin-left: 100px;
+        height: 600px;
+    }
+
+    
+    /* ---save--------- */
+    /* -------thanks-- */
+    .thanks {
+        width: 665px;
+        margin-left: 70px;
+    }
+}
+
+/* -----------480-768------------- */
+/* ---------768-991------------- */
+@media (min-width : 768px) and (max-width : 991px){
+    html,body{
+		width: 100%;
+    }
+
+    .donate {
+        width: 660px;
+        margin-left: 60px;
+        height: 880px;
+     
+    }
+
+    .donate img {
+        width: 120px;
+        margin-left: 280px;
+        border-radius: 60px;
+    }
+
+    .donate h1 {
+        font-size: 50px;
+    }
+
+    .donate p {
+        font-size: 30px;
+    }
+
+    .donate h2 {
+        font-size: 46px;
+        margin-top: 35px;
+    }
+
+    .donate iframe {
+        margin-left: 100px;
+        width: 460px;
+        height: 300px;
+    }
+
+    .donate input {
+        font-size: 32px;
+        margin-left: 156px;
+        margin-top: 30px;
+    }
+    /* --------index----------- */
+    /* --------form------------ */
+    .donar-save {
+        width: 600px;
+        margin-left: 100px;
+        height: 460px;
+        margin-top: 180px;
+
+    }
+
+    .donar-save img {
+        width: 130px;
+        margin-left: 220px;
+        border-radius: 80px;
+        font-size: 25px;
+    }
+
+    .donar-save h1 {
+        font-size: 50px;
+        margin-top: 40px;
+    }
+
+    .donar-save input {
+        margin-left: 130px;
+        margin-top: 30px
+    }
+
+    .donar-save .button1 {
+        font-size: 30px;
+    }
+
+    /* -------form-------- */
+    /* -------------log-------- */
+    .heart {
+        font-size: 50px;
+    }
+
+    .donator {
+        width: 635px;
+        margin-left: 80px;
+        margin-top: 70px;
+        height: 1300px;
+    }
+    .donator img {
+        width: 125px;
+        border-radius: 70px;
+    }
+    .donator h1{
+        font-size: 55px;
+    }
+    
+
+    #input {
+        width: 75%;
+        font-size: 26px;
+    }
+
+    #input:hover {
+        width: 80%;
+    }
+
+    select {
+        width: 60%;
+        font-size: 24px;
+    }
+
+    select:hover{
+        width: 65%;
+    }
+    /* --log--- */
+    /* -----search---- */
+
+     .contenedor {
+        width: 600px;
+        margin-left: 100px;
+    }
+    /* ------search--- */
+    /* ---save---- */
+
+    .save-blood {
+        width: 620px;
+        margin-left: 100px;
+        height: 600px;
+    }
+
+    
+    /* ---save--------- */
+    /* -------thanks-- */
+    .thanks {
+        width: 665px;
+        margin-left: 70px;
+    }
+
+}
+
+@media (min-width : 992px) and (max-width : 1199px) {
+    html,body{
+		width: 100%;
+    }
+    
+    .donate {
+        width: 750px;
+        margin-left: 140px;
+        height: 880px;
+        
+    }
+
+    .donate img {
+        width: 120px;
+        margin-left: 320px;
+        border-radius: 60px;
+    }
+
+    .donate h1 {
+        font-size: 50px;
+    }
+
+    .donate p {
+        font-size: 30px;
+    }
+
+    .donate h2 {
+        font-size: 46px;
+        margin-top: 35px;
+    }
+
+    .donate iframe {
+        margin-left: 140px;
+        width: 460px;
+        height: 300px;
+    }
+
+    .donate input {
+        font-size: 32px;
+        margin-left: 196px;
+        margin-top: 30px;
+    }
+    /* --------index----------- */
+    /* --------form------------ */
+    .donar-save {
+        width: 600px;
+        margin-left: 230px;
+        height: 460px;
+        margin-top: 180px;
+
+    }
+
+    .donar-save img {
+        width: 130px;
+        margin-left: 220px;
+        border-radius: 80px;
+        font-size: 25px;
+    }
+
+    .donar-save h1 {
+        font-size: 50px;
+        margin-top: 40px;
+    }
+
+    .donar-save input {
+        margin-left: 130px;
+        margin-top: 30px;
+        font-size: 25px;
+    }
+
+    .donar-save .button1 {
+        font-size: 30px;
+    }
+
+    /* -------form-------- */
+    /* -------------log-------- */
+    .heart {
+        font-size: 50px;
+    }
+
+    .donator {
+        width: 635px;
+        margin-left: 200px;
+        margin-top: 70px;
+        height: 13000px;
+    }
+    .donator img {
+        width: 125px;
+        border-radius: 70px;
+    }
+    .donator h1{
+        font-size: 55px;
+    }
+    
+
+    #input {
+        width: 75%;
+        font-size: 26px;
+    }
+
+    #input:hover {
+        width: 80%;
+    }
+
+    select {
+        width: 60%;
+        font-size: 24px;
+    }
+
+    select:hover{
+        width: 65%;
+    }
+    /* --log--- */
+    /* -----search---- */
+
+    .contenedor {
+        width: 600px;
+        margin-left: 220px;
+    }
+    /* ---search--- */
+    /* ---save---- */
+
+    .save-blood {
+        width: 620px;
+        margin-left: 200px;
+        height: 600px;
+    }
+
+    
+    /* ---save--------- */
+    /* -------thanks-- */
+    .thanks {
+        width: 730px;
+        margin-left: 146px;
+    }
+}
+
+/* --------360--------- */
+@media (max-width : 380px){
+    html,body{
+		width: 100%;
+    }
+
+    .donate {
+        margin-left: 35px;
+        height:820px;
+    }
+    
+    .donar-save {
+        margin-left: 10px;
+        width: 340px;
+
+    }
+    .donator {
+        margin-left: 20px;
+        width: 320px;
+    }
+    
+    #txtDate {
+        width: 58%;
+    }
+    
+     #txtDate:hover {
+        width: 60%;
+    }
+       
+
+    .contenedor {
+        width: 315px;
+        margin-left: 22px;
+    }
+
+    .thanks{
+        width: 330px;
+        margin-left: 18px;
+    }
+
+    .save-blood{
+        width: 100%;
+        margin-left:0px;
+        height: 600px;
+        margin-bottom:50px;
+    }
+    
+   
+
+
+}
+
+/* ---------------------------------------------------- */
+
+
+

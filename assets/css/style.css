@@ -1,0 +1,446 @@
+html,
+body{
+    height: 100%;
+    width:  100%;
+}
+
+.donate{
+    background-color: white;
+    width: 500px;
+    margin-left: 500px;
+    margin-top: 50px;
+    height: 720px;
+    margin-bottom:50px;
+}
+.donate img{
+    width: 100px;
+    margin-left: 200px;
+    margin-top: 50px;
+    border-radius: 50px;
+}
+
+.donate h1{
+    font-family:' times new roman';
+    font-weight: 900;
+    text-align: center;
+    font-size: 40px;
+}
+.donate p{
+    font-size: 22px;
+    text-align: center;
+    margin-top: 25px;
+    font-family: 'open sans';
+}
+.donate h2{
+    text-align: center;
+    font-size: 33px;
+    font-family: 'Times New Roman';
+    font-weight: 600;
+    margin-top: 25px;
+}
+
+.donate iframe{
+    margin-left: 90px;
+    margin-top: 25px;
+    width: 320px;
+    height: 250px;
+}
+
+.donate input{
+    background-color: rgb(230,0,0);
+    border: 0px;
+    color: white;
+    padding-right: 60px;
+    font-size: 25px;
+    margin-left: 100px;
+    padding-left: 80px;
+    margin-top: 15px;
+    font-family: 'roboto slab';
+    font-weight: 900;
+}
+/* ----------------index------------- */
+/* ----------------form--------------- */
+
+.donar-save {
+    background-color: white;
+    width: 500px;
+    margin-left: 450px;
+    margin-top: 130px;
+    height: 400px;
+
+}
+
+.donar-save img{
+    width: 100px;
+    margin-left: 200px;
+    margin-top: 50px;
+    border-radius: 50px;
+
+}
+
+.donar-save h1{
+
+    font-family:' times new roman';
+    font-weight: 900;
+    text-align: center;
+    font-size: 40px;
+}
+
+.donar-save input{
+    background-color: rgb(230,0,0);
+    border: 0px;
+    color: white;
+    padding-right: 45px;
+    font-size: 24px;
+    margin-left: 100px;
+    padding-left: 75px;
+    margin-top: 15px;
+    /* font-family: 'roboto slab'; */
+    font-weight: bold;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.donar-save .button1{
+    padding-right: 85px;
+    font-size: 25px;
+    padding-left: 95px;
+}
+/* --------------form---------- */
+/* ---------log---------- */
+.heart{
+    color: white;
+    font-size: 45px;
+    font-family: 'roboto slab';
+    font-weight: 900;
+    margin-top: 30px;
+}
+    
+.donator {
+    background-color: white;
+    width: 500px;
+    margin-left: 450px;
+    margin-top: 130px;
+    height: 1150px;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+
+
+.donator img{
+    width: 100px;
+    margin-top: 50px;
+    border-radius: 50px;
+}
+
+
+.donator  h1{
+
+    text-align: center;
+    font-family: 'times new roman';
+    font-weight: 900;
+    margin-top: 25px;
+    padding-bottom: 25px;
+}
+
+#input{
+    text-align: center;
+    padding: 12px 20px;
+    margin-bottom: 20px;
+    width: 50%;
+    font-size: 16px;
+    border: 1px solid;
+    border-color: #bdc3c7;
+    background: #f2f2f2;
+  
+}
+  
+#input:hover{
+    width: 55%;
+    transition: 0.5s;
+    border-radius: 6px;
+    border-color: #e74c3c;
+}
+
+#txtDate{
+    text-align: center;
+    padding: 12px 20px;
+    margin-bottom: 20px;
+    width: 50%;
+    font-size: 16px;
+    border: 1px solid;
+    border-color: #bdc3c7;
+    background: #f2f2f2;
+
+}
+
+#txtDate:hover{
+    width: 55%;
+    transition: 0.5s;
+    border-radius: 6px;
+    border-color: #e74c3c;
+
+}
+
+/*input[type="date"]::before{*/
+/*   color: #000000;*/
+/*   content: attr(placeholder);*/
+/*}*/
+/*input[type="date"]:focus::before {*/
+/*   content: "" !important;*/
+/*}*/
+  
+select{
+    text-align: center;
+    padding: 12px 20px;
+    margin-bottom: 20px;
+    width: 40%;
+    font-size: 16px;
+    border: 1px solid;
+    border-color: #bdc3c7;
+    background: #f2f2f2;
+  
+}
+
+select:hover{
+    width: 45%;
+    transition: 0.5s;
+    border-radius: 6px;
+    border-color: #e74c3c;
+  
+}
+
+  
+.donator .grup .button{
+    margin: 8px 0px;
+    background-color:  rgb(230,0,0);;
+    border: none;
+    color: #fff;
+    width: 90%;
+    font-size: 17px;
+    padding: 12px 20px;
+    font-weight: bold;
+}
+
+.donator .grup .button:hover{
+    background-color: #c0392b;
+}
+
+.donator .grup a{
+    color:#7a7a7a;
+    text-decoration: none;
+}
+
+.donator .grup a:hover{
+    color:#7a7a7a;
+    text-decoration: underline;
+}
+/* ---------log------------ */
+/* -----------search---------- */
+
+.contenedor {
+    background-color: white;
+    width: 500px;
+    margin-left: 450px;
+    margin-top: 130px;
+    height: 620px;
+    text-align: center;
+}
+  
+.contenedor img{
+    width: 100px;
+    margin-top: 50px;
+    border-radius: 50px;
+}
+  
+.contenedor h1{
+
+    text-align: center;
+    font-family: 'times new roman';
+    font-weight: 900;
+    margin-top: 25px;
+    padding-bottom: 25px;
+}
+
+.contenedor .grup .button{
+    margin: 8px 0px;
+    background-color:  rgb(230,0,0);;
+    border: none;
+    color: #fff;
+    width: 90%;
+    font-size: 17px;
+    padding: 12px 20px;
+    font-weight: bold;
+}
+
+.contenedor .grup .button:hover{
+    background-color: #c0392b;
+}
+
+.contenedor .grup a{
+    color:#7a7a7a;
+    text-decoration: none;
+}
+
+.contenedor .grup a:hover{
+    color:#7a7a7a;
+    text-decoration: underline;
+}
+/* -----------search------- */
+/* --------thank you-------------- */
+
+.thanks{
+    background-color: white;
+    width: 500px;
+    margin-left: 450px;
+    margin-top: 130px;
+    height: 380px;
+    text-align: center;
+}
+
+.thanks img{
+    width: 100px;
+    margin-top: 50px;
+    border-radius: 50px;
+}
+
+.thanks h1{
+
+    text-align: center;
+    font-family: 'times new roman';
+    font-weight: 900;
+    margin-top: 25px;
+    padding-bottom: 25px;
+    color: #000;
+}
+
+.th-button {
+    background-color: rgb(230,0,0);
+    border: 0px;
+    color: white;
+    padding-right: 10px;
+    font-size: 22px;
+    padding-left: 16px;
+    margin-top: 15px;
+    font-weight: bold;
+    padding-bottom: 0;
+    padding-top: 0;
+}
+
+
+/* -----thank you---- */
+/* -----save------ */
+
+.save-blood{
+   background-color: white;
+    width: 630px;
+    margin-left: 380px;
+    margin-top: 100px;
+    height: 800px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+
+.save-blood img{
+    width: 100px;
+    margin-top: 50px;
+    border-radius: 50px;
+}
+
+
+.save-blood h1{
+
+    text-align: center;
+    font-family: 'times new roman';
+    font-weight: 900;
+    margin-top: 25px;
+    padding-bottom: 25px;
+    color: #000;
+}
+
+.save-blood th{
+
+    padding-left: 30px;
+}
+
+.save-blood td{
+    padding-left: 30px;
+    font-family:'times new roman';
+    padding-top: 8px;
+}
+    
+/* ------city------- */
+
+
+.admin{
+    background-color: white;
+    width: 630px;
+    margin-left: 350px;
+    margin-top: 130px;
+    height: 800px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.admin h1{
+    text-align: center;
+    font-family: 'times new roman';
+    font-weight: 900;
+    margin-top: 25px;
+    padding-bottom: 25px;
+    color: #000;
+}
+
+.admin img{
+    width: 100px;
+    margin-top: 50px;
+    border-radius: 50px;
+}
+
+.admin .button{
+    background-color: rgb(230,0,0);
+    border: 0px;
+    color: white;
+    padding-right: 10px;
+    font-size: 22px;
+    padding-left: 16px;
+    margin-top: 15px;
+    font-weight: bold;
+    padding-bottom: 0;
+    padding-top: 0;
+}
+
+
+/* ---------city php------ */
+
+.admin-blood{
+    background-color: white;
+    width: 630px;
+    margin-left: 350px;
+    margin-top: 130px;
+    height: 800px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.admin-blood h1{
+    text-align: center;
+    font-family: 'times new roman';
+    font-weight: 900;
+    margin-top: 25px;
+    padding-bottom: 25px;
+    color: #000;
+}
+
+.admin-blood img{
+    width: 100px;
+    margin-top: 50px;
+    border-radius: 50px;
+}
+    
+
+
+
+
