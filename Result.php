@@ -49,6 +49,8 @@ $result = mysqli_query($mysqli, $sql);
               <td><?php echo $row['name']; ?></td>
               <td><?php echo $row['bloodgroup']; ?></td>
               <td><?php echo $row['mobile']; ?></td>
+              <!--Added City-->
+              <td><?php echo $row['city']; ?></td>
             </tr>
            
            <?php  }
